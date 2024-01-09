@@ -1,0 +1,19 @@
+Title: Clustering App 
+ShortName: Clustering App
+Date: 2022-06-10
+Lifecycle: experimental
+Authors@R: c(
+    person(given = "Jacopo", family = "Di Iorio", email = "jqd5830@psu.edu", role = c("aut", "cre"))
+  )
+Chapter:Chapter 11: Data Science
+Description: An App to introduce and demostrate the idea of clustering 
+LearningObjectives: c(
+    "The student will allocate centroids to minimize deviation of dataset with
+    respect to each nearest centroids."
+  )
+DisplayMode: Normal
+URL: https://psu-eberly.shinyapps.io/personal_introduction_app-hy2021-IT
+BugReports: https://github.com/EducationShinyAppTeam/personal_introduction_app-hy2021-IT/issues
+License: CC-BY-NC-SA-4.0
+Tags: simulation
+Type: Shiny
