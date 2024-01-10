@@ -12,7 +12,7 @@ library(tidyselect)
 library(DT)
 
 library(devtools)
-library(easyGgplot2)
+#library(easyGgplot2)
 library(Spectrum)
 #library(data.table)
 
