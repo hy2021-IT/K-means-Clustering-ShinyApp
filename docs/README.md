@@ -10,7 +10,7 @@ A learning application that demonstrates the progressively changing iterations a
 This repository was created by Hongyi Xia to present on the finalized ShinyApp for the sake of clarity and conciseness. Any intermediate working proceduce carried out by Hongyi Xia and his professors can be found at a different repository @ https://github.com/EducationShinyAppTeam/k_means_clustering/tree/dev_summer_2022
 
 ## Important files to highlight
-- app.R : The R file that containts the R code to establish the ui and server for the ShinyApp \
+- app.R : The R file that containts the R code to establish the ui and server for the ShinyApp 
 
 - Kiterfunction.rds : The RDS file that imports the object where the coordinates of the iris data points and centroids for each K-means iteration are stored
 
