@@ -28,7 +28,7 @@ This repository was created by Hongyi Xia to present on the finalized ShinyApp f
 ## An Explore page to customize your own k-means
 - In the illustration below, aftering selecting a dataset to work with from the bulletin board, click on the diagram that displays the data points on the right to set initial centroids
 
-- After choosing the desired number and the inital position of centriods, click the 'Run' button to display the classification end result of k-means
+- After choosing the desired number and the initial position of centroids, click the 'Run' button to display the classification end result of k-means
 
 - 'Clear centroids' button erase the plotted centroids in the diagram no matter it is before or after the execution of k-means algorithm
 
